@@ -1,6 +1,7 @@
 # Installation
 ```
-$ npm install
+npm install
+npm run dev
 ```
 # React + Vite
 
